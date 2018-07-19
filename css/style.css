@@ -1,0 +1,40 @@
+
+
+.navbar-brand
+{
+  font-size: 25px;
+}
+
+.jumbotron {
+  background-image: url("../img/jumbotron.jpg");
+  background-size: cover;
+  color: white;
+  min-height: 500px;
+  margin-top: -20px;
+  overflow: hidden;
+  font-size: 25px;
+
+}
+
+.jumbotron h1 {
+  font-size: 70px;
+}
+
+footer {
+  color: #eee;
+  font-size: 12px;
+  padding: 30px;
+  margin-top: 200px;
+}
+
+a {
+  color: inherit;
+}
+
+#lomake {
+  margin-top: 50px;
+}
+
+.linkki {
+  text-decoration: underline;
+}
